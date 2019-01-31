@@ -1,1 +1,1 @@
-asdfqowidjqiojqwd
+try out for Spring RESTFUL api
